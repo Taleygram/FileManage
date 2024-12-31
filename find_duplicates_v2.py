@@ -7,6 +7,7 @@ image_path = Path(image_folder)
 
 # image_files = [_ for _ in os.listdir(image_folder) if _.endswith('MP4')]
 # print(len(image_files))
+# adding some text for git practice
 
 files = list(image_path.rglob("*.MP4*"))
 # print(len(files))
