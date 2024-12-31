@@ -1,5 +1,6 @@
 
 #  /Volumes/Expansion/Raw_Footage
+# some changes to test the git pull
 
 import os
 import hashlib
